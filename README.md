@@ -55,4 +55,8 @@ Timer settings can be adjusted in `src/config_pins.h`:
 
 ## License
 
+<<<<<<< HEAD
 MIT License - see LICENSE file for details
+=======
+MIT License - see LICENSE file for details
+>>>>>>> d0585748bd930393759cd5a5f03f50f02f9b87f2
